@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/notes/67f02fee0ce3f9df26c3ddb8
+Content-Type: application/json
+
+{
+"content": "Pelota del maLLl",
+"important": false
+}
